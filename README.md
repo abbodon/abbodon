@@ -1,9 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Y1dTRnZDB0NWd5cjdteDlhOXpzNHFqNm80eGd3N3F1ZzJ3c252ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.webp" width="256"/>
+  <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="512"/>
 <div>  
 <img src="https://komarev.com/ghpvc/?username=abbodon-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+<div id="header" align="center">
+Проекты  по Data Science и Аналитики
+</div> 
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
